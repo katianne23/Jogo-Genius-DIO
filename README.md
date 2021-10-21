@@ -15,3 +15,6 @@ Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons
 Cabia aos jogadores repetir o processo sem errar.
 
 * [Fonte Wikipédia](https://pt.wikipedia.org/wiki/Genius_(jogo))
+
+## Acesse para ver o funcionamnento do Jogo
+- [Jogar](https://katianne23.github.io/Jogo-Genius-DIO/)

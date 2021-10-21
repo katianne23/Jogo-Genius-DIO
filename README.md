@@ -16,5 +16,5 @@ Cabia aos jogadores repetir o processo sem errar.
 
 * [Fonte Wikipédia](https://pt.wikipedia.org/wiki/Genius_(jogo))
 
-## Acesse para ver o funcionamnento do Jogo
+## Acesse para ver o funcionamento do Jogo
 - [Jogar](https://katianne23.github.io/Jogo-Genius-DIO/)

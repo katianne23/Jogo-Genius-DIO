@@ -1,7 +1,7 @@
 # Projeto Digital Innovation One Bootcamp Eduzz
 # Criação do jogo de memória estilo Genius
 
-#Sobre o Jogo Genius
+# Sobre o Jogo Genius
 
 Genius era um brinquedo muito popular na década de 1980 distribuído pela Brinquedos Estrela.
 O brinquedo buscava estimular a memorização de cores e sons. 

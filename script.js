@@ -1,4 +1,4 @@
-slet order = [];
+let order = [];
 let clicledOrder = [];
 let score = 0;
 
